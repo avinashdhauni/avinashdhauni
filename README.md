@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinashdhauni
-- 👀 I’m interested in Blockchain, Digital Marketing, Social Media Marketing and Automation.
-- 🌱 I’m currently learning SEO, Social Media Marketing and Solidity
-- 💞️ I’m looking to collaborate on Solidity
+- 👀 I’m interested in Blockchain, Digital Marketing, Social Media Marketing and Web Design and Development.
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me 
 
 <!---
